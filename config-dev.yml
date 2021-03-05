@@ -1,2 +1,2 @@
 config:
-  env: dev
+  env: dev version = 1
